@@ -1,1 +1,1 @@
-# oliokurssi
+# olio-ohjelmointi
